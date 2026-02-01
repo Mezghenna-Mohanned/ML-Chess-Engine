@@ -1,4 +1,4 @@
-# Jinxy Chess AI
+# Machine Learning Chess Engine
 
 <div align="center">
   <img src="1stVersion/images/logo.png" alt="Chess AI Logo" width="260" height="260" />
