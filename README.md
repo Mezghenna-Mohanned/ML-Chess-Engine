@@ -3,7 +3,7 @@
 <div align="center">
   <img src="1stVersion/images/logo.png" alt="Chess AI Logo" width="260" height="260" />
   <h3>A powerful neural network chess engine with advanced AI capabilities.</h3>
-  <p><a href="#">Explore Jinxy Chess AI Docs »</a></p>
+  <p><a href="#">Explore Chess AI Docs »</a></p>
 
   <p>
     <a href="#">Report bug</a> ·
@@ -33,7 +33,7 @@ this repository is only to read code purposes , after cloning u wont be able to 
 
 
 ## Overview
-Welcome to the **Jinxy Chess AI Project**! This project integrates a sophisticated machine learning-based artificial intelligence (AI) with a user-friendly graphical user interface (GUI) built using Pygame. The goal is to provide an engaging and challenging chess-playing experience where users can compete against an AI opponent capable of making intelligent and strategic moves based on a trained neural network model 
+Welcome to the **ML Chess AI Project**! This project integrates a sophisticated machine learning-based artificial intelligence (AI) with a user-friendly graphical user interface (GUI) built using Pygame. The goal is to provide an engaging and challenging chess-playing experience where users can compete against an AI opponent capable of making intelligent and strategic moves based on a trained neural network model 
 
 ## Introduction
 
